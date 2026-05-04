@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/haranck/Leetcode-problems/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/haranck/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/haranck/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0682-baseball-game](https://github.com/haranck/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0941-valid-mountain-array](https://github.com/haranck/Leetcode-problems/tree/master/0941-valid-mountain-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/haranck/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/haranck/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0728-self-dividing-numbers](https://github.com/haranck/Leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/haranck/Leetcode-problems/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/haranck/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -180,5 +182,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/haranck/Leetcode-problems/tree/master/0048-rotate-image) |
 | [1572-matrix-diagonal-sum](https://github.com/haranck/Leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
