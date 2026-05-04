@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/haranck/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0728-self-dividing-numbers](https://github.com/haranck/Leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/haranck/Leetcode-problems/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/haranck/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/haranck/Leetcode-problems/tree/master/1323-maximum-69-number) |
