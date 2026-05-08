@@ -203,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/haranck/Leetcode-problems/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/haranck/Leetcode-problems/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
