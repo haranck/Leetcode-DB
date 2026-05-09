@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/haranck/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/haranck/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/haranck/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/haranck/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/haranck/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/haranck/Leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/haranck/Leetcode-problems/tree/master/1025-divisor-game) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/haranck/Leetcode-problems/tree/master/0069-sqrtx) |
 | [1539-kth-missing-positive-number](https://github.com/haranck/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haranck/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
