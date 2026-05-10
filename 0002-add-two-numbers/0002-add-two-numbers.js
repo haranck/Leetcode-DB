@@ -33,7 +33,6 @@ var addTwoNumbers = function (l1, l2) {
             head = head.next
         }
         return BigInt(num)
-        // return Number(num)
     }
 
     let num1 = listToNumber(rev1)
