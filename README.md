@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/haranck/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0682-baseball-game](https://github.com/haranck/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0941-valid-mountain-array](https://github.com/haranck/Leetcode-problems/tree/master/0941-valid-mountain-array) |
+| [0942-di-string-match](https://github.com/haranck/Leetcode-problems/tree/master/0942-di-string-match) |
 | [1051-height-checker](https://github.com/haranck/Leetcode-problems/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/haranck/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/haranck/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haranck/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0520-detect-capital](https://github.com/haranck/Leetcode-problems/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/0709-to-lower-case) |
+| [0942-di-string-match](https://github.com/haranck/Leetcode-problems/tree/master/0942-di-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/haranck/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1332-remove-palindromic-subsequences](https://github.com/haranck/Leetcode-problems/tree/master/1332-remove-palindromic-subsequences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/haranck/Leetcode-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/haranck/Leetcode-problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/haranck/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0876-middle-of-the-linked-list](https://github.com/haranck/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
+| [0942-di-string-match](https://github.com/haranck/Leetcode-problems/tree/master/0942-di-string-match) |
 | [1332-remove-palindromic-subsequences](https://github.com/haranck/Leetcode-problems/tree/master/1332-remove-palindromic-subsequences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haranck/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0942-di-string-match](https://github.com/haranck/Leetcode-problems/tree/master/0942-di-string-match) |
 | [1323-maximum-69-number](https://github.com/haranck/Leetcode-problems/tree/master/1323-maximum-69-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/haranck/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Tree
