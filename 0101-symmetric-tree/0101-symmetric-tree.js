@@ -11,6 +11,7 @@
  * @return {boolean}
  */
 var isSymmetric = function (root) {
+    
     function isMirror(left, right) {
         if (!left && !right) return true
         if (!left || !right) return false
