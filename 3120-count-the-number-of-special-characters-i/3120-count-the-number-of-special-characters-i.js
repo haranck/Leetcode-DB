@@ -6,7 +6,6 @@ var numberOfSpecialChars = function (word) {
     let count = 0
     let set = new Set(word)
     let visited = new Set()
-    console.log(set)
 
     for (let char of word) {
         let lower = char.toLowerCase()
@@ -20,5 +19,4 @@ var numberOfSpecialChars = function (word) {
         }
     }
     return count
-    console.log(count)
 };
