@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/haranck/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/haranck/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/haranck/Leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/haranck/Leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/haranck/Leetcode-problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/haranck/Leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2678-number-of-senior-citizens](https://github.com/haranck/Leetcode-problems/tree/master/2678-number-of-senior-citizens) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/haranck/Leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/haranck/Leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/haranck/Leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
