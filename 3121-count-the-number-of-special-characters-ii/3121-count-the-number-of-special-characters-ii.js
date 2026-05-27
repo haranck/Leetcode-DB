@@ -18,6 +18,5 @@ var numberOfSpecialChars = function (word) {
             }
         }
     }
-    console.log(count)
     return count
 };
