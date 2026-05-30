@@ -1,3 +1,7 @@
+/**
+ * @param {number} num
+ * @return {number}
+ */
 var findComplement = function(num) {
     let bit = num.toString(2);
     let str = "";
