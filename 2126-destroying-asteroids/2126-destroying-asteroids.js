@@ -5,7 +5,6 @@
  */
 var asteroidsDestroyed = function(mass, asteroids) {
     asteroids.sort((a,b)=>a-b)
-    console.log(asteroids)
     for(let asteroid of asteroids){
         if(mass < asteroid){
             return false
