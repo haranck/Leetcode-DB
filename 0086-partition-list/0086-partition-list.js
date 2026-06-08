@@ -29,6 +29,5 @@ var partition = function(head, x) {
     }
     large.next = null
     small.next = largeDummy.next
-    console.log(smallDummy.next)
     return smallDummy.next
 };
