@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/haranck/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/haranck/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/haranck/Leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0290-word-pattern](https://github.com/haranck/Leetcode-problems/tree/master/0290-word-pattern) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/haranck/Leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2540-minimum-common-value](https://github.com/haranck/Leetcode-problems/tree/master/2540-minimum-common-value) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/haranck/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haranck/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/haranck/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
+| [0290-word-pattern](https://github.com/haranck/Leetcode-problems/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/haranck/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/haranck/Leetcode-problems/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/0709-to-lower-case) |
