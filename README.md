@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/haranck/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0941-valid-mountain-array](https://github.com/haranck/Leetcode-problems/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/haranck/Leetcode-problems/tree/master/0942-di-string-match) |
+| [1046-last-stone-weight](https://github.com/haranck/Leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/haranck/Leetcode-problems/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/haranck/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/haranck/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/haranck/Leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/haranck/Leetcode-problems/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
