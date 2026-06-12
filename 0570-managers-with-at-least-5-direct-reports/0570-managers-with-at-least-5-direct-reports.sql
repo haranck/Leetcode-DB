@@ -1,10 +1,7 @@
-SELECT e.name
-FROM Employee e
-JOIN (
-    SELECT managerId
-    FROM Employee
-    WHERE managerId IS NOT NULL
-    GROUP BY managerId
-    HAVING COUNT(*) >= 5
-) m
-ON e.id = m.managerId;
+# Write your MySQL query statement below
+select e1.name 
+from Employee e1
+join (
+    select managerId, count(*) from Employee
+    group by managerId Having count(*) >= 5
+) e2 on e1.id = e2.managerId;
