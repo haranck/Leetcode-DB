@@ -1,6 +1,11 @@
-# Leetcode-problems
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# Leetcode-solutions
+This repository contains my solutions to LeetCode problems solved as part of my Data Structures and Algorithms practice.
 
+## Goal
+
+Improve problem-solving skills, strengthen DSA concepts, and prepare for technical interviews through consistent practice.
+
+---
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
