@@ -145,6 +145,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [1025-divisor-game](https://github.com/haranck/Leetcode-problems/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/haranck/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/haranck/Leetcode-problems/tree/master/1323-maximum-69-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/haranck/Leetcode-problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1688-count-of-matches-in-tournament](https://github.com/haranck/Leetcode-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/haranck/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/haranck/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
