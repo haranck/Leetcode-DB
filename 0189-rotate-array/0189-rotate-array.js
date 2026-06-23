@@ -4,9 +4,6 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var rotate = function(nums, k) {
-    k = k % nums.length;
-    console.log(k)
-    let moved = nums.splice(-k)
+    let moved = nums.splice(-(k % nums.length))
     nums.unshift(...moved)
-    console.log(nums)
 };
