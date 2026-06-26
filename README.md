@@ -57,6 +57,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/haranck/Leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/haranck/Leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/haranck/Leetcode-problems/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/haranck/Leetcode-problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -310,6 +311,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [3028-ant-on-the-boundary](https://github.com/haranck/Leetcode-problems/tree/master/3028-ant-on-the-boundary) |
 | [3612-process-string-with-special-operations-i](https://github.com/haranck/Leetcode-problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/haranck/Leetcode-problems/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/haranck/Leetcode-problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Depth-First Search
 |  |
 | ------- |
