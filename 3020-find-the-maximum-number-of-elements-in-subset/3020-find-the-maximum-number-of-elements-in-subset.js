@@ -6,14 +6,12 @@ var maximumLength = function(nums) {
 
     let freq = {};
 
-    // Count frequency
     for (let num of nums) {
         freq[num] = (freq[num] || 0) + 1;
     }
 
     let ans = 1;
 
-    // Handle 1 separately
     if (freq[1]) {
         let count = freq[1];
         if (count % 2 === 0) count--;
@@ -32,10 +30,10 @@ var maximumLength = function(nums) {
         while (freq[current]) {
 
             if (freq[current] >= 2) {
-                len += 2;           // Take two copies
+                len += 2;          
                 current = current * current;
             } else {
-                len += 1;           // Last element
+                len += 1;           
                 break;
             }
         }
