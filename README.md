@@ -38,6 +38,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [1833-maximum-ice-cream-bars](https://github.com/haranck/Leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/haranck/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1854-maximum-population-year](https://github.com/haranck/Leetcode-problems/tree/master/1854-maximum-population-year) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/haranck/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/haranck/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/haranck/Leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/haranck/Leetcode-problems/tree/master/2126-destroying-asteroids) |
@@ -102,6 +103,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [1189-maximum-number-of-balloons](https://github.com/haranck/Leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1332-remove-palindromic-subsequences](https://github.com/haranck/Leetcode-problems/tree/master/1332-remove-palindromic-subsequences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/haranck/Leetcode-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/haranck/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2129-capitalize-the-title](https://github.com/haranck/Leetcode-problems/tree/master/2129-capitalize-the-title) |
 | [2278-percentage-of-letter-in-string](https://github.com/haranck/Leetcode-problems/tree/master/2278-percentage-of-letter-in-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
