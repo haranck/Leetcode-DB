@@ -279,6 +279,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/haranck/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/haranck/Leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/haranck/Leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/haranck/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
@@ -299,6 +300,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/haranck/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/haranck/Leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/haranck/Leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/haranck/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
@@ -323,6 +325,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/haranck/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/haranck/Leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/haranck/Leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/haranck/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
@@ -365,6 +368,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/haranck/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/haranck/Leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/haranck/Leetcode-problems/tree/master/0938-range-sum-of-bst) |
 ## Trie
